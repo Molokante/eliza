@@ -1,8 +1,8 @@
 {
-  "name": "TrollDetective.Exe",
+  "name": "Destiny",
   "plugins": [],
-  "clients": ["twitter"],
-  "modelProvider": "eternalai",
+  "clients": ["discord"],
+  "modelProvider": "anthropic",
   "settings": {
     "secrets": {},
     "voice": {
